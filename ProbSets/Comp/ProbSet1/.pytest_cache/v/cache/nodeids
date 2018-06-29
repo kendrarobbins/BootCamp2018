@@ -1,0 +1,9 @@
+[
+  "test_backpack.py::test_backpack",
+  "test_fractions.py::test_fraction_init",
+  "test_fractions.py::test_fraction_float",
+  "test_fractions.py::test_fraction_eq",
+  "test_month_length.py::test_month",
+  "test_operate.py::test_operate",
+  "test_smallest_factor.py::test_small"
+]

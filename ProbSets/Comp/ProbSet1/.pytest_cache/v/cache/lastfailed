@@ -1,0 +1,6 @@
+{
+  "test_PS1.py": true,
+  "test_PS1.py::test_small": true,
+  "test_fractions.py::test_fraction_str": true,
+  "test_set.py": true
+}
